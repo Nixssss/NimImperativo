@@ -1,15 +1,12 @@
 ## Contexto do projeto
 Este repositório contém uma apresentação em slides que explora a linguagem de programação Nim e o paradigma imperativo. A apresentação abrange desde a introdução à linguagem até suas aplicações práticas, vantagens, desvantagens e exemplos de código.
 
-Apresentação sobre Linguagem Nim e Paradigma Imperativo
-Este repositório contém uma apresentação em slides que explora a linguagem de programação Nim e o paradigma imperativo. A apresentação abrange desde a introdução à linguagem até suas aplicações práticas, vantagens, desvantagens e exemplos de código.
-
 ## Estrutura do Projeto
 A apresentação é composta por várias seções, cada uma representando um slide. Os principais componentes incluem:
 
 HTML: Estrutura básica da apresentação.\
-CSS: Estilização torna a apresentação visualmente confortavel .
-JavaScript: Funcionalidade/ações para navegação entre os slides.\
+CSS: Estilização torna a apresentação visualmente confortavel.\
+JavaScript: Funcionalidade/ações para navegação entre os slides.
 ## Seções da Apresentação
 Referências e Autoria: Informações sobre os autores da apresentação.\
 Introdução à Linguagem Nim: História e características da linguagem.\
