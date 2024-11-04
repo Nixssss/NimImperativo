@@ -1,3 +1,22 @@
+## Contexto do projeto
+Este repositório contém uma apresentação em slides que explora a linguagem de programação Nim e o paradigma imperativo. A apresentação abrange desde a introdução à linguagem até suas aplicações práticas, vantagens, desvantagens e exemplos de código.
+
+## Estrutura do Projeto
+A apresentação é composta por várias seções, cada uma representando um slide. Os principais componentes incluem:
+
+HTML: Estrutura básica da apresentação.\
+CSS: Estilização torna a apresentação visualmente confortavel.\
+JavaScript: Funcionalidade/ações para navegação entre os slides.
+## Seções da Apresentação
+Referências e Autoria: Informações sobre os autores da apresentação.\
+Introdução à Linguagem Nim: História e características da linguagem.\
+Aplicações de Nim: Exemplos de onde a linguagem pode ser utilizada.\
+Vantagens e Desvantagens: Uma análise das qualidades e limitações do uso de Nim.\
+Paradigma Imperativo: Definição e contexto do paradigma na programação.\
+Aplicações Práticas do Paradigma: Exemplos de uso do paradigma imperativo em várias áreas.\
+Nim e o Paradigma Imperativo: Como Nim se encaixa no paradigma, com um exemplo de código.\
+Conclusão: Reflexões sobre a versatilidade e potencial de Nim.\
+Referências: Links e fontes de informação utilizadas na apresentação.
 ## Referências
 
 1. [Wikipedia](https://pt.wikipedia.org/wiki/Programa%C3%A7%C3%A3o_imperativa)
@@ -18,3 +37,18 @@
 16. [Fortran: a linguagem que revolucionou a computação científica](https://t1noticias.com.br/estado/fortran-a-linguagem-que-revolucionou-a-computacao-cientifica/129443)
 17. [Lista de alguns softwares famosos escritos em C++](https://terminalroot.com.br/2021/03/lista-de-alguns-softwares-famosos-escritos-em-cpp.html)
 18. [Inteligência artificial e as línguagens de programação](https://www.dio.me/articles/inteligencia-artificial-e-as-linguagens-de-programacao)
+
+## Tecnologias Utilizadas
+
+HTML5\
+CSS3\
+JavaScript
+
+## Autores
+
+André Santos Pereira - 30333165\
+Guilherme Vieira - 31081959\
+Italo Kevyn Oliveira Bezerra - 31547834\
+Kallipio dos Santos Oliveira - 316457\
+Murilo da Silva Ferreira - 31454631\
+Yan Santos Silva - 31086748
